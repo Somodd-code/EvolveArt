@@ -1,0 +1,10 @@
+^C:\USERS\SAMNB\DOWNLOADS\EVOLVEART\GEODEEVOLVE\BUILD\_DEPS\TULIPHOOK-SUBBUILD\CMAKEFILES\EBA3464994A5FD5D995ED3098857E93E\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/samnb/Downloads/EvolveArt/GeodeEvolve/build/_deps/tuliphook-subbuild -BC:/Users/samnb/Downloads/EvolveArt/GeodeEvolve/build/_deps/tuliphook-subbuild --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/samnb/Downloads/EvolveArt/GeodeEvolve/build/_deps/tuliphook-subbuild/tuliphook-populate.slnx
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="18.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\samnb\Downloads\EvolveArt\GeodeEvolve\build\_deps\bindings-subbuild\CMakeFiles\94b014952d7c541e18a9d976ae36e4ec\bindings-populate-mkdir.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\samnb\Downloads\EvolveArt\GeodeEvolve\build\_deps\bindings-subbuild\CMakeFiles\94b014952d7c541e18a9d976ae36e4ec\bindings-populate-download.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\samnb\Downloads\EvolveArt\GeodeEvolve\build\_deps\bindings-subbuild\CMakeFiles\94b014952d7c541e18a9d976ae36e4ec\bindings-populate-update.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\samnb\Downloads\EvolveArt\GeodeEvolve\build\_deps\bindings-subbuild\CMakeFiles\94b014952d7c541e18a9d976ae36e4ec\bindings-populate-patch.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\samnb\Downloads\EvolveArt\GeodeEvolve\build\_deps\bindings-subbuild\CMakeFiles\94b014952d7c541e18a9d976ae36e4ec\bindings-populate-configure.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\samnb\Downloads\EvolveArt\GeodeEvolve\build\_deps\bindings-subbuild\CMakeFiles\94b014952d7c541e18a9d976ae36e4ec\bindings-populate-build.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\samnb\Downloads\EvolveArt\GeodeEvolve\build\_deps\bindings-subbuild\CMakeFiles\94b014952d7c541e18a9d976ae36e4ec\bindings-populate-install.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\samnb\Downloads\EvolveArt\GeodeEvolve\build\_deps\bindings-subbuild\CMakeFiles\94b014952d7c541e18a9d976ae36e4ec\bindings-populate-test.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\samnb\Downloads\EvolveArt\GeodeEvolve\build\_deps\bindings-subbuild\CMakeFiles\9b114fa6301505d3a47fb1bbcf7d2600\bindings-populate-complete.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\samnb\Downloads\EvolveArt\GeodeEvolve\build\_deps\bindings-subbuild\CMakeFiles\79f5b1fa01459b3af3a14057608899c5\bindings-populate.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\samnb\Downloads\EvolveArt\GeodeEvolve\build\_deps\bindings-subbuild\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\samnb\Downloads\EvolveArt\GeodeEvolve\build\_deps\bindings-subbuild\CMakeFiles\bindings-populate" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{9E098A5B-18CA-34AD-9A1B-4A8446D81846}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/samnb/Downloads/EvolveArt/GeodeEvolve/build/_deps/tuliphook-subbuild/CMakeFiles/tuliphook-populate"
+		},
+		{
+			"file" : "C:/Users/samnb/Downloads/EvolveArt/GeodeEvolve/build/_deps/tuliphook-subbuild/CMakeFiles/eba3464994a5fd5d995ed3098857e93e/tuliphook-populate.rule"
+		},
+		{
+			"file" : "C:/Users/samnb/Downloads/EvolveArt/GeodeEvolve/build/_deps/tuliphook-subbuild/CMakeFiles/1c351bdb7eaf3970d147d21e3ffea08e/tuliphook-populate-complete.rule"
+		},
+		{
+			"file" : "C:/Users/samnb/Downloads/EvolveArt/GeodeEvolve/build/_deps/tuliphook-subbuild/CMakeFiles/ee5c514b81032b310acfe1f7b07186f8/tuliphook-populate-build.rule"
+		},
+		{
+			"file" : "C:/Users/samnb/Downloads/EvolveArt/GeodeEvolve/build/_deps/tuliphook-subbuild/CMakeFiles/ee5c514b81032b310acfe1f7b07186f8/tuliphook-populate-configure.rule"
+		},
+		{
+			"file" : "C:/Users/samnb/Downloads/EvolveArt/GeodeEvolve/build/_deps/tuliphook-subbuild/CMakeFiles/ee5c514b81032b310acfe1f7b07186f8/tuliphook-populate-download.rule"
+		},
+		{
+			"file" : "C:/Users/samnb/Downloads/EvolveArt/GeodeEvolve/build/_deps/tuliphook-subbuild/CMakeFiles/ee5c514b81032b310acfe1f7b07186f8/tuliphook-populate-install.rule"
+		},
+		{
+			"file" : "C:/Users/samnb/Downloads/EvolveArt/GeodeEvolve/build/_deps/tuliphook-subbuild/CMakeFiles/ee5c514b81032b310acfe1f7b07186f8/tuliphook-populate-mkdir.rule"
+		},
+		{
+			"file" : "C:/Users/samnb/Downloads/EvolveArt/GeodeEvolve/build/_deps/tuliphook-subbuild/CMakeFiles/ee5c514b81032b310acfe1f7b07186f8/tuliphook-populate-patch.rule"
+		},
+		{
+			"file" : "C:/Users/samnb/Downloads/EvolveArt/GeodeEvolve/build/_deps/tuliphook-subbuild/CMakeFiles/ee5c514b81032b310acfe1f7b07186f8/tuliphook-populate-test.rule"
+		},
+		{
+			"file" : "C:/Users/samnb/Downloads/EvolveArt/GeodeEvolve/build/_deps/tuliphook-subbuild/CMakeFiles/ee5c514b81032b310acfe1f7b07186f8/tuliphook-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"tuliphook-populate"
+		],
+		"name" : "tuliphook-populate"
+	}
+}

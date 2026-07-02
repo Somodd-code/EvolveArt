@@ -1,0 +1,10 @@
+^C:\USERS\SAMNB\DOWNLOADS\EVOLVEART\GEODEEVOLVE\BUILD\_DEPS\FMT-SUBBUILD\CMAKEFILES\1514113151B123BB2292630216085531\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/samnb/Downloads/EvolveArt/GeodeEvolve/build/_deps/fmt-subbuild -BC:/Users/samnb/Downloads/EvolveArt/GeodeEvolve/build/_deps/fmt-subbuild --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/samnb/Downloads/EvolveArt/GeodeEvolve/build/_deps/fmt-subbuild/fmt-populate.slnx
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

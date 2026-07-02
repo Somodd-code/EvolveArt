@@ -1,0 +1,77 @@
+{
+    "geode": "5.6.1",
+    "gd": {
+        "win": "2.206",
+        "android": "2.206",
+        "mac": "2.206"
+    },
+    "version": "v0.1.0",
+    "id": "siwance.evolveart",
+    "name": "EvolveArt",
+    "developer": "siwance",
+    "description": "Recreates any image inside a GD level using an evolutionary algorithm, live in the editor.",
+    "tags": ["editor", "utility"],
+    "dependencies": [
+        {
+            "id": "geode.node-ids",
+            "version": ">=1.0.0",
+            "importance": "required"
+        }
+    ],
+    "settings": {
+        "population-size": {
+            "name": "Candidates per generation",
+            "description": "How many random objects are tried each generation before the best one is kept. Higher = better quality, slower.",
+            "type": "int",
+            "default": 40,
+            "min": 5,
+            "max": 400
+        },
+        "generations-per-tick": {
+            "name": "Generations per tick",
+            "description": "How many generations run per scheduler tick (~20 ticks/sec). Higher = faster building, more chance of lag.",
+            "type": "int",
+            "default": 4,
+            "min": 1,
+            "max": 50
+        },
+        "max-objects": {
+            "name": "Object budget",
+            "description": "Hard cap on how many objects the mod will place in your level.",
+            "type": "int",
+            "default": 6000,
+            "min": 100,
+            "max": 20000
+        },
+        "canvas-blocks-wide": {
+            "name": "Canvas width (blocks)",
+            "description": "Resolution of the internal simulated canvas, in GD blocks. Bigger = sharper image, more objects, slower.",
+            "type": "int",
+            "default": 120,
+            "min": 20,
+            "max": 300
+        },
+        "use-all-object-ids": {
+            "name": "Use all object IDs",
+            "description": "Allow the engine to place any object ID from 1 to 120 rather than only squares.",
+            "type": "bool",
+            "default": false
+        },
+        "max-objects-per-frame": {
+            "name": "Object budget per frame",
+            "description": "When generating a video from multiple frames, how many objects to place for each frame.",
+            "type": "int",
+            "default": 3000,
+            "min": 100,
+            "max": 20000
+        },
+        "video-frame-gap-blocks": {
+            "name": "Video frame gap",
+            "description": "How many empty GD blocks to leave between successive video frames.",
+            "type": "int",
+            "default": 40,
+            "min": 10,
+            "max": 200
+        }
+    }
+}

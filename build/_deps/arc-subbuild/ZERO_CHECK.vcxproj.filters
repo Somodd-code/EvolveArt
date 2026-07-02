@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="18.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\samnb\Downloads\EvolveArt\GeodeEvolve\build\_deps\arc-subbuild\CMakeFiles\01540b14d8272c27b418d410be89f52e\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{922853C9-F565-34B8-8B36-4BB01CDD3E63}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

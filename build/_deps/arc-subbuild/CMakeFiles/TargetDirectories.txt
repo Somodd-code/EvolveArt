@@ -1,0 +1,3 @@
+C:/Users/samnb/Downloads/EvolveArt/GeodeEvolve/build/_deps/arc-subbuild/CMakeFiles/arc-populate.dir
+C:/Users/samnb/Downloads/EvolveArt/GeodeEvolve/build/_deps/arc-subbuild/CMakeFiles/ALL_BUILD.dir
+C:/Users/samnb/Downloads/EvolveArt/GeodeEvolve/build/_deps/arc-subbuild/CMakeFiles/ZERO_CHECK.dir

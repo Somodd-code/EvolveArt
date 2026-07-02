@@ -1,0 +1,150 @@
+^C:\USERS\SAMNB\DOWNLOADS\EVOLVEART\GEODEEVOLVE\BUILD\_DEPS\BINDINGS-SUBBUILD\CMAKEFILES\94B014952D7C541E18A9D976AE36E4EC\BINDINGS-POPULATE-MKDIR.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -Dcfgdir=/Debug -P C:/Users/samnb/Downloads/EvolveArt/GeodeEvolve/build/_deps/bindings-subbuild/bindings-populate-prefix/tmp/bindings-populate-mkdirs.cmake
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E touch C:/Users/samnb/Downloads/EvolveArt/GeodeEvolve/build/_deps/bindings-subbuild/bindings-populate-prefix/src/bindings-populate-stamp/Debug/bindings-populate-mkdir
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\SAMNB\DOWNLOADS\EVOLVEART\GEODEEVOLVE\BUILD\_DEPS\BINDINGS-SUBBUILD\CMAKEFILES\94B014952D7C541E18A9D976AE36E4EC\BINDINGS-POPULATE-DOWNLOAD.RULE
+setlocal
+cd C:\Users\samnb\Downloads\EvolveArt\GeodeEvolve\build\_deps
+if %errorlevel% neq 0 goto :cmEnd
+C:
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -DCMAKE_MESSAGE_LOG_LEVEL=VERBOSE -P C:/Users/samnb/Downloads/EvolveArt/GeodeEvolve/build/_deps/bindings-subbuild/bindings-populate-prefix/tmp/bindings-populate-gitclone.cmake
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E touch C:/Users/samnb/Downloads/EvolveArt/GeodeEvolve/build/_deps/bindings-subbuild/bindings-populate-prefix/src/bindings-populate-stamp/Debug/bindings-populate-download
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\SAMNB\DOWNLOADS\EVOLVEART\GEODEEVOLVE\BUILD\_DEPS\BINDINGS-SUBBUILD\CMAKEFILES\94B014952D7C541E18A9D976AE36E4EC\BINDINGS-POPULATE-UPDATE.RULE
+setlocal
+cd C:\Users\samnb\Downloads\EvolveArt\GeodeEvolve\build\_deps\bindings-src
+if %errorlevel% neq 0 goto :cmEnd
+C:
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -Dcan_fetch=YES -DCMAKE_MESSAGE_LOG_LEVEL=VERBOSE -P C:/Users/samnb/Downloads/EvolveArt/GeodeEvolve/build/_deps/bindings-subbuild/bindings-populate-prefix/tmp/bindings-populate-gitupdate.cmake
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\SAMNB\DOWNLOADS\EVOLVEART\GEODEEVOLVE\BUILD\_DEPS\BINDINGS-SUBBUILD\CMAKEFILES\94B014952D7C541E18A9D976AE36E4EC\BINDINGS-POPULATE-PATCH.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -E echo_append
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E touch C:/Users/samnb/Downloads/EvolveArt/GeodeEvolve/build/_deps/bindings-subbuild/bindings-populate-prefix/src/bindings-populate-stamp/Debug/bindings-populate-patch
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\SAMNB\DOWNLOADS\EVOLVEART\GEODEEVOLVE\BUILD\_DEPS\BINDINGS-SUBBUILD\CMAKEFILES\94B014952D7C541E18A9D976AE36E4EC\BINDINGS-POPULATE-CONFIGURE.RULE
+setlocal
+cd C:\Users\samnb\Downloads\EvolveArt\GeodeEvolve\build\_deps\bindings-build
+if %errorlevel% neq 0 goto :cmEnd
+C:
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E echo_append
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E touch C:/Users/samnb/Downloads/EvolveArt/GeodeEvolve/build/_deps/bindings-subbuild/bindings-populate-prefix/src/bindings-populate-stamp/Debug/bindings-populate-configure
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\SAMNB\DOWNLOADS\EVOLVEART\GEODEEVOLVE\BUILD\_DEPS\BINDINGS-SUBBUILD\CMAKEFILES\94B014952D7C541E18A9D976AE36E4EC\BINDINGS-POPULATE-BUILD.RULE
+setlocal
+cd C:\Users\samnb\Downloads\EvolveArt\GeodeEvolve\build\_deps\bindings-build
+if %errorlevel% neq 0 goto :cmEnd
+C:
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E echo_append
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E touch C:/Users/samnb/Downloads/EvolveArt/GeodeEvolve/build/_deps/bindings-subbuild/bindings-populate-prefix/src/bindings-populate-stamp/Debug/bindings-populate-build
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\SAMNB\DOWNLOADS\EVOLVEART\GEODEEVOLVE\BUILD\_DEPS\BINDINGS-SUBBUILD\CMAKEFILES\94B014952D7C541E18A9D976AE36E4EC\BINDINGS-POPULATE-INSTALL.RULE
+setlocal
+cd C:\Users\samnb\Downloads\EvolveArt\GeodeEvolve\build\_deps\bindings-build
+if %errorlevel% neq 0 goto :cmEnd
+C:
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E echo_append
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E touch C:/Users/samnb/Downloads/EvolveArt/GeodeEvolve/build/_deps/bindings-subbuild/bindings-populate-prefix/src/bindings-populate-stamp/Debug/bindings-populate-install
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\SAMNB\DOWNLOADS\EVOLVEART\GEODEEVOLVE\BUILD\_DEPS\BINDINGS-SUBBUILD\CMAKEFILES\94B014952D7C541E18A9D976AE36E4EC\BINDINGS-POPULATE-TEST.RULE
+setlocal
+cd C:\Users\samnb\Downloads\EvolveArt\GeodeEvolve\build\_deps\bindings-build
+if %errorlevel% neq 0 goto :cmEnd
+C:
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E echo_append
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E touch C:/Users/samnb/Downloads/EvolveArt/GeodeEvolve/build/_deps/bindings-subbuild/bindings-populate-prefix/src/bindings-populate-stamp/Debug/bindings-populate-test
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\SAMNB\DOWNLOADS\EVOLVEART\GEODEEVOLVE\BUILD\_DEPS\BINDINGS-SUBBUILD\CMAKEFILES\9B114FA6301505D3A47FB1BBCF7D2600\BINDINGS-POPULATE-COMPLETE.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -E make_directory C:/Users/samnb/Downloads/EvolveArt/GeodeEvolve/build/_deps/bindings-subbuild/CMakeFiles/Debug
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E touch C:/Users/samnb/Downloads/EvolveArt/GeodeEvolve/build/_deps/bindings-subbuild/CMakeFiles/Debug/bindings-populate-complete
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E touch C:/Users/samnb/Downloads/EvolveArt/GeodeEvolve/build/_deps/bindings-subbuild/bindings-populate-prefix/src/bindings-populate-stamp/Debug/bindings-populate-done
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\SAMNB\DOWNLOADS\EVOLVEART\GEODEEVOLVE\BUILD\_DEPS\BINDINGS-SUBBUILD\CMAKEFILES\79F5B1FA01459B3AF3A14057608899C5\BINDINGS-POPULATE.RULE
+setlocal
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\SAMNB\DOWNLOADS\EVOLVEART\GEODEEVOLVE\BUILD\_DEPS\BINDINGS-SUBBUILD\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/samnb/Downloads/EvolveArt/GeodeEvolve/build/_deps/bindings-subbuild -BC:/Users/samnb/Downloads/EvolveArt/GeodeEvolve/build/_deps/bindings-subbuild --check-stamp-file C:/Users/samnb/Downloads/EvolveArt/GeodeEvolve/build/_deps/bindings-subbuild/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

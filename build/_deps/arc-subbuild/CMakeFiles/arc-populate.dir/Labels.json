@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/samnb/Downloads/EvolveArt/GeodeEvolve/build/_deps/arc-subbuild/CMakeFiles/arc-populate"
+		},
+		{
+			"file" : "C:/Users/samnb/Downloads/EvolveArt/GeodeEvolve/build/_deps/arc-subbuild/CMakeFiles/01540b14d8272c27b418d410be89f52e/arc-populate.rule"
+		},
+		{
+			"file" : "C:/Users/samnb/Downloads/EvolveArt/GeodeEvolve/build/_deps/arc-subbuild/CMakeFiles/3144eca511afe0ef284ba65729112b56/arc-populate-complete.rule"
+		},
+		{
+			"file" : "C:/Users/samnb/Downloads/EvolveArt/GeodeEvolve/build/_deps/arc-subbuild/CMakeFiles/ed7ed0c7539af3aa80946684ab33c4a0/arc-populate-build.rule"
+		},
+		{
+			"file" : "C:/Users/samnb/Downloads/EvolveArt/GeodeEvolve/build/_deps/arc-subbuild/CMakeFiles/ed7ed0c7539af3aa80946684ab33c4a0/arc-populate-configure.rule"
+		},
+		{
+			"file" : "C:/Users/samnb/Downloads/EvolveArt/GeodeEvolve/build/_deps/arc-subbuild/CMakeFiles/ed7ed0c7539af3aa80946684ab33c4a0/arc-populate-download.rule"
+		},
+		{
+			"file" : "C:/Users/samnb/Downloads/EvolveArt/GeodeEvolve/build/_deps/arc-subbuild/CMakeFiles/ed7ed0c7539af3aa80946684ab33c4a0/arc-populate-install.rule"
+		},
+		{
+			"file" : "C:/Users/samnb/Downloads/EvolveArt/GeodeEvolve/build/_deps/arc-subbuild/CMakeFiles/ed7ed0c7539af3aa80946684ab33c4a0/arc-populate-mkdir.rule"
+		},
+		{
+			"file" : "C:/Users/samnb/Downloads/EvolveArt/GeodeEvolve/build/_deps/arc-subbuild/CMakeFiles/ed7ed0c7539af3aa80946684ab33c4a0/arc-populate-patch.rule"
+		},
+		{
+			"file" : "C:/Users/samnb/Downloads/EvolveArt/GeodeEvolve/build/_deps/arc-subbuild/CMakeFiles/ed7ed0c7539af3aa80946684ab33c4a0/arc-populate-test.rule"
+		},
+		{
+			"file" : "C:/Users/samnb/Downloads/EvolveArt/GeodeEvolve/build/_deps/arc-subbuild/CMakeFiles/ed7ed0c7539af3aa80946684ab33c4a0/arc-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"arc-populate"
+		],
+		"name" : "arc-populate"
+	}
+}

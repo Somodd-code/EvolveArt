@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="18.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\samnb\Downloads\EvolveArt\GeodeEvolve\build\_deps\fmt-subbuild\CMakeFiles\bee7a64867725a1d42bbf820c5dd3753\fmt-populate-mkdir.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\samnb\Downloads\EvolveArt\GeodeEvolve\build\_deps\fmt-subbuild\CMakeFiles\bee7a64867725a1d42bbf820c5dd3753\fmt-populate-download.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\samnb\Downloads\EvolveArt\GeodeEvolve\build\_deps\fmt-subbuild\CMakeFiles\bee7a64867725a1d42bbf820c5dd3753\fmt-populate-update.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\samnb\Downloads\EvolveArt\GeodeEvolve\build\_deps\fmt-subbuild\CMakeFiles\bee7a64867725a1d42bbf820c5dd3753\fmt-populate-patch.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\samnb\Downloads\EvolveArt\GeodeEvolve\build\_deps\fmt-subbuild\CMakeFiles\bee7a64867725a1d42bbf820c5dd3753\fmt-populate-configure.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\samnb\Downloads\EvolveArt\GeodeEvolve\build\_deps\fmt-subbuild\CMakeFiles\bee7a64867725a1d42bbf820c5dd3753\fmt-populate-build.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\samnb\Downloads\EvolveArt\GeodeEvolve\build\_deps\fmt-subbuild\CMakeFiles\bee7a64867725a1d42bbf820c5dd3753\fmt-populate-install.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\samnb\Downloads\EvolveArt\GeodeEvolve\build\_deps\fmt-subbuild\CMakeFiles\bee7a64867725a1d42bbf820c5dd3753\fmt-populate-test.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\samnb\Downloads\EvolveArt\GeodeEvolve\build\_deps\fmt-subbuild\CMakeFiles\2dc5787fe745ddebd7784a5901d65bd6\fmt-populate-complete.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\samnb\Downloads\EvolveArt\GeodeEvolve\build\_deps\fmt-subbuild\CMakeFiles\1514113151b123bb2292630216085531\fmt-populate.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\samnb\Downloads\EvolveArt\GeodeEvolve\build\_deps\fmt-subbuild\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\samnb\Downloads\EvolveArt\GeodeEvolve\build\_deps\fmt-subbuild\CMakeFiles\fmt-populate" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{E90B4105-CF75-3425-AA53-E4652443F599}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

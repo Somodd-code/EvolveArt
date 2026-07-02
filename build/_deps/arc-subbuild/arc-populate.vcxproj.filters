@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="18.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\samnb\Downloads\EvolveArt\GeodeEvolve\build\_deps\arc-subbuild\CMakeFiles\ed7ed0c7539af3aa80946684ab33c4a0\arc-populate-mkdir.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\samnb\Downloads\EvolveArt\GeodeEvolve\build\_deps\arc-subbuild\CMakeFiles\ed7ed0c7539af3aa80946684ab33c4a0\arc-populate-download.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\samnb\Downloads\EvolveArt\GeodeEvolve\build\_deps\arc-subbuild\CMakeFiles\ed7ed0c7539af3aa80946684ab33c4a0\arc-populate-update.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\samnb\Downloads\EvolveArt\GeodeEvolve\build\_deps\arc-subbuild\CMakeFiles\ed7ed0c7539af3aa80946684ab33c4a0\arc-populate-patch.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\samnb\Downloads\EvolveArt\GeodeEvolve\build\_deps\arc-subbuild\CMakeFiles\ed7ed0c7539af3aa80946684ab33c4a0\arc-populate-configure.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\samnb\Downloads\EvolveArt\GeodeEvolve\build\_deps\arc-subbuild\CMakeFiles\ed7ed0c7539af3aa80946684ab33c4a0\arc-populate-build.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\samnb\Downloads\EvolveArt\GeodeEvolve\build\_deps\arc-subbuild\CMakeFiles\ed7ed0c7539af3aa80946684ab33c4a0\arc-populate-install.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\samnb\Downloads\EvolveArt\GeodeEvolve\build\_deps\arc-subbuild\CMakeFiles\ed7ed0c7539af3aa80946684ab33c4a0\arc-populate-test.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\samnb\Downloads\EvolveArt\GeodeEvolve\build\_deps\arc-subbuild\CMakeFiles\3144eca511afe0ef284ba65729112b56\arc-populate-complete.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\samnb\Downloads\EvolveArt\GeodeEvolve\build\_deps\arc-subbuild\CMakeFiles\01540b14d8272c27b418d410be89f52e\arc-populate.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\samnb\Downloads\EvolveArt\GeodeEvolve\build\_deps\arc-subbuild\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\samnb\Downloads\EvolveArt\GeodeEvolve\build\_deps\arc-subbuild\CMakeFiles\arc-populate" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{922853C9-F565-34B8-8B36-4BB01CDD3E63}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/samnb/Downloads/EvolveArt/GeodeEvolve/build/_deps/bindings-subbuild/CMakeFiles/bindings-populate"
+		},
+		{
+			"file" : "C:/Users/samnb/Downloads/EvolveArt/GeodeEvolve/build/_deps/bindings-subbuild/CMakeFiles/79f5b1fa01459b3af3a14057608899c5/bindings-populate.rule"
+		},
+		{
+			"file" : "C:/Users/samnb/Downloads/EvolveArt/GeodeEvolve/build/_deps/bindings-subbuild/CMakeFiles/9b114fa6301505d3a47fb1bbcf7d2600/bindings-populate-complete.rule"
+		},
+		{
+			"file" : "C:/Users/samnb/Downloads/EvolveArt/GeodeEvolve/build/_deps/bindings-subbuild/CMakeFiles/94b014952d7c541e18a9d976ae36e4ec/bindings-populate-build.rule"
+		},
+		{
+			"file" : "C:/Users/samnb/Downloads/EvolveArt/GeodeEvolve/build/_deps/bindings-subbuild/CMakeFiles/94b014952d7c541e18a9d976ae36e4ec/bindings-populate-configure.rule"
+		},
+		{
+			"file" : "C:/Users/samnb/Downloads/EvolveArt/GeodeEvolve/build/_deps/bindings-subbuild/CMakeFiles/94b014952d7c541e18a9d976ae36e4ec/bindings-populate-download.rule"
+		},
+		{
+			"file" : "C:/Users/samnb/Downloads/EvolveArt/GeodeEvolve/build/_deps/bindings-subbuild/CMakeFiles/94b014952d7c541e18a9d976ae36e4ec/bindings-populate-install.rule"
+		},
+		{
+			"file" : "C:/Users/samnb/Downloads/EvolveArt/GeodeEvolve/build/_deps/bindings-subbuild/CMakeFiles/94b014952d7c541e18a9d976ae36e4ec/bindings-populate-mkdir.rule"
+		},
+		{
+			"file" : "C:/Users/samnb/Downloads/EvolveArt/GeodeEvolve/build/_deps/bindings-subbuild/CMakeFiles/94b014952d7c541e18a9d976ae36e4ec/bindings-populate-patch.rule"
+		},
+		{
+			"file" : "C:/Users/samnb/Downloads/EvolveArt/GeodeEvolve/build/_deps/bindings-subbuild/CMakeFiles/94b014952d7c541e18a9d976ae36e4ec/bindings-populate-test.rule"
+		},
+		{
+			"file" : "C:/Users/samnb/Downloads/EvolveArt/GeodeEvolve/build/_deps/bindings-subbuild/CMakeFiles/94b014952d7c541e18a9d976ae36e4ec/bindings-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"bindings-populate"
+		],
+		"name" : "bindings-populate"
+	}
+}

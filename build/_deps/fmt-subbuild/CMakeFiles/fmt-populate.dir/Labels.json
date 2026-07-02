@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/samnb/Downloads/EvolveArt/GeodeEvolve/build/_deps/fmt-subbuild/CMakeFiles/fmt-populate"
+		},
+		{
+			"file" : "C:/Users/samnb/Downloads/EvolveArt/GeodeEvolve/build/_deps/fmt-subbuild/CMakeFiles/1514113151b123bb2292630216085531/fmt-populate.rule"
+		},
+		{
+			"file" : "C:/Users/samnb/Downloads/EvolveArt/GeodeEvolve/build/_deps/fmt-subbuild/CMakeFiles/2dc5787fe745ddebd7784a5901d65bd6/fmt-populate-complete.rule"
+		},
+		{
+			"file" : "C:/Users/samnb/Downloads/EvolveArt/GeodeEvolve/build/_deps/fmt-subbuild/CMakeFiles/bee7a64867725a1d42bbf820c5dd3753/fmt-populate-build.rule"
+		},
+		{
+			"file" : "C:/Users/samnb/Downloads/EvolveArt/GeodeEvolve/build/_deps/fmt-subbuild/CMakeFiles/bee7a64867725a1d42bbf820c5dd3753/fmt-populate-configure.rule"
+		},
+		{
+			"file" : "C:/Users/samnb/Downloads/EvolveArt/GeodeEvolve/build/_deps/fmt-subbuild/CMakeFiles/bee7a64867725a1d42bbf820c5dd3753/fmt-populate-download.rule"
+		},
+		{
+			"file" : "C:/Users/samnb/Downloads/EvolveArt/GeodeEvolve/build/_deps/fmt-subbuild/CMakeFiles/bee7a64867725a1d42bbf820c5dd3753/fmt-populate-install.rule"
+		},
+		{
+			"file" : "C:/Users/samnb/Downloads/EvolveArt/GeodeEvolve/build/_deps/fmt-subbuild/CMakeFiles/bee7a64867725a1d42bbf820c5dd3753/fmt-populate-mkdir.rule"
+		},
+		{
+			"file" : "C:/Users/samnb/Downloads/EvolveArt/GeodeEvolve/build/_deps/fmt-subbuild/CMakeFiles/bee7a64867725a1d42bbf820c5dd3753/fmt-populate-patch.rule"
+		},
+		{
+			"file" : "C:/Users/samnb/Downloads/EvolveArt/GeodeEvolve/build/_deps/fmt-subbuild/CMakeFiles/bee7a64867725a1d42bbf820c5dd3753/fmt-populate-test.rule"
+		},
+		{
+			"file" : "C:/Users/samnb/Downloads/EvolveArt/GeodeEvolve/build/_deps/fmt-subbuild/CMakeFiles/bee7a64867725a1d42bbf820c5dd3753/fmt-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"fmt-populate"
+		],
+		"name" : "fmt-populate"
+	}
+}
